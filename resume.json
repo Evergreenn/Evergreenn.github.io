@@ -75,9 +75,13 @@
         "Amethyst"
     ]}],
     "languages": [{
-      "language": "Français",
+      "language": "French",
       "fluency": "Native speaker"
-    }],
+    },
+    {
+        "language": "English",
+        "fluency": "read and write"
+      }],
     "interests": [{
       "name": "Art martiaux",
       "keywords": [
