@@ -1,93 +1,112 @@
 {
     "meta": {
         "theme": "elegant"
-      },
+    },
     "basics": {
-      "name": "Guillaume Girard",
-      "label": "Developer",
-      "picture": "https://github.com/Evergreenn.png",
-      "email": "guillaumegirardpro@gmail.com",
-      "website": "https://evergreenn.github.io/",
-      "summary": "<script>let me = \"*** Add a bio here ***\";</script>",
-      "location": {
-        "address": "7 rue Yves Montand",
-        "postalCode": "10430",
-        "city": "Rosieres-Pres-Toyes",
-        "countryCode": "FR"
-      },
-      "profiles": [{
-        "network": "Linkedin",
-        "url": "https://linkedin.com/in/guillaumegirardwebdev"
-        }]
+        "name": "Guillaume Girard",
+        "label": "Developer",
+        "picture": "https://github.com/Evergreenn.png",
+        "email": "guillaumegirardpro@gmail.com",
+        "website": "https://evergreenn.github.io/",
+        "summary": "<script>let me = \"*** Add a bio here ***\";</script>",
+        "location": {
+            "address": "7 rue Yves Montand",
+            "postalCode": "10430",
+            "city": "Rosieres-Pres-Toyes",
+            "countryCode": "FR"
+        },
+        "profiles": [
+            {
+                "network": "Linkedin",
+                "url": "https://linkedin.com/in/guillaumegirardwebdev"
+            },
+            {
+                "network": "Github",
+                "url": "https://github.com/Evergreenn"
+            }
+        ]
     },
-    "work": [{
-      "company": "1339 SAS",
-      "position": "Developer",
-      "website": "https://grytics.com",
-      "startDate": "2016-06-16",
-      "summary": "1339 SAS est une entreprise qui propose un produit d'analyse de groupe Facebook, GRYTICS. Ce produit propose des metrics ainsi que des outils permettant de connaitre la santé d'un groupe Facebook, Slack, Teams et Yammer.",
-      "highlights": [
-        "Refonte du produit en Symfony4 - REDIS -React",
-        "Authentification et Securité (Qualys)",
-        "Création d'une API REST avec Silex",
-        "Optimisation de la db et des queries en MYSQL",
-        "Hosting sur AWS (Cloudfront - Lambda - IaaS)",
-        "Divers micro projet avec laravel - lumen - Neo4J",
-        "Gestion des sources et code review (GIT- MERCURIAL)",
-        "Docker"
-      ]
-    }],
-    "volunteer": [{
-      "organization": "Kibblz",
-      "position": "CTO",
-      "startDate": "2016-10-01",
-      "endDate": "2017-02-01",
-      "summary": "Kibblz est une application social permettant d'uploader et de mettre en opposition des photos lors d'un match. La communauté peut voter pour faire gagner la photo de leur choix. En tant que CTO j'ai du gérer une équipe de 4 développeurs afin de les guider dans la réalisation du produit",
-      "highlights": [
-        "Création de l'application web Symfony 2.8",
-        "Création d'une API REST Silex",
-        "Rédaction de documents techniques"
-      ]
-    }],
-    "education": [{
-      "institution": "IUT",
-      "area": "MMI",
-      "studyType": "Licence Pro",
-      "startDate": "2013-09-01",
-      "endDate": "2016-06-30"
-    }],
-    "skills": [{
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "React",
-        "Symfony",
-        "Mysql",
-        "PHP"
-      ]
-    },{
-      "name": "Rust Development",
-      "level": "Beginner",
-      "keywords": [
-        "Rust",
-        "Rocket",
-        "Diesel",
-        "Amethyst"
-    ]}],
-    "languages": [{
-      "language": "French",
-      "fluency": "Native speaker"
-    },
-    {
-        "language": "English",
-        "fluency": "read and write"
-      }],
-    "interests": [{
-      "name": "Art martiaux",
-      "keywords": [
-        "Instructeur de Panuntukan",
-        "Pratique Pençak Silat"
-      ]
-    }]
-  }
-  
+    "work": [
+        {
+            "company": "1339 SAS",
+            "position": "Developer",
+            "website": "https://grytics.com",
+            "startDate": "2016-06-16",
+            "summary": "1339 SAS est une entreprise qui propose un produit d'analyse de groupe Facebook, GRYTICS. Ce produit propose des metrics ainsi que des outils permettant de connaitre la santé d'un groupe Facebook, Slack, Teams et Yammer.",
+            "highlights": [
+                "Refonte du produit en Symfony4 - REDIS -React",
+                "Authentification et Securité (Qualys)",
+                "Création d'une API REST avec Silex",
+                "Optimisation de la db et des queries en MYSQL",
+                "Hosting sur AWS (Cloudfront - Lambda - IaaS)",
+                "Divers micro projet avec laravel - lumen - Neo4J",
+                "Gestion des sources et code review (GIT- MERCURIAL)",
+                "Docker"
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Kibblz",
+            "position": "CTO",
+            "startDate": "2016-10-01",
+            "endDate": "2017-02-01",
+            "summary": "Kibblz est une application social permettant d'uploader et de mettre en opposition des photos lors d'un match. La communauté peut voter pour faire gagner la photo de leur choix. En tant que CTO j'ai du gérer une équipe de 4 développeurs afin de les guider dans la réalisation du produit",
+            "highlights": [
+                "Création de l'application web Symfony 2.8",
+                "Création d'une API REST Silex",
+                "Rédaction de documents techniques"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "IUT",
+            "area": "MMI",
+            "studyType": "Licence Pro",
+            "startDate": "2013-09-01",
+            "endDate": "2016-06-30"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": [
+                "React",
+                "Symfony",
+                "Mysql",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Rust Development",
+            "level": "Beginner",
+            "keywords": [
+                "Rust",
+                "Rocket",
+                "Diesel",
+                "Amethyst"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "French",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "read and write"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Arts martiaux",
+            "keywords": [
+                "Instructeur de Panuntukan",
+                "Pratique Pençak Silat"
+            ]
+        }
+    ]
+}
