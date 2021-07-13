@@ -10,10 +10,7 @@
         "website": "https://evergreenn.github.io/",
         "summary": "<script>let me = \"*** Add a bio here ***\";</script>",
         "location": {
-            "address": "7 rue Yves Montand",
-            "postalCode": "10430",
-            "city": "Rosieres-Pres-Toyes",
-            "countryCode": "FR"
+            "city": "Troyes"
         },
         "profiles": [
             {
@@ -76,7 +73,19 @@
                 "React",
                 "Symfony",
                 "Mysql",
-                "PHP"
+                "PHP",
+                "REDIS",
+                "RabbitMQ",
+                "OAuth2"
+            ]
+        },
+        {
+            "name": "OPS",
+            "level": "Intermediate",
+            "keywords": [
+                "IasS",
+                "Serverless",
+                "IaC"
             ]
         },
         {
