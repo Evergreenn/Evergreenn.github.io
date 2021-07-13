@@ -8,7 +8,7 @@
       "picture": "https://github.com/Evergreenn.png",
       "email": "guillaumegirardpro@gmail.com",
       "website": "https://evergreenn.github.io/",
-      "summary": "A summary of John Doe...",
+      "summary": "<script>let me = \"*** Add a bio here ***\";</script>",
       "location": {
         "address": "7 rue Yves Montand",
         "postalCode": "10430",
@@ -17,7 +17,7 @@
       },
       "profiles": [{
         "network": "Linkedin",
-        "url": " www.linkedin.com/in/guillaumegirardwebdev"
+        "url": "https://linkedin.com/in/guillaumegirardwebdev"
         }]
     },
     "work": [{
@@ -57,7 +57,7 @@
       "endDate": "2016-06-30"
     }],
     "skills": [{
-      "name": "Development web",
+      "name": "Web Development",
       "level": "Master",
       "keywords": [
         "React",
@@ -66,7 +66,7 @@
         "PHP"
       ]
     },{
-      "name": "Development",
+      "name": "Rust Development",
       "level": "Beginner",
       "keywords": [
         "Rust",
