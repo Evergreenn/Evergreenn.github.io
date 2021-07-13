@@ -1,5 +1,7 @@
 {
-    "meta": { "theme": "elegant" },
+    "meta": {
+        "theme": "elegant"
+      },
     "basics": {
       "name": "Guillaume Girard",
       "label": "Developer",

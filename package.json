@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/evergreenn/Evergreenn.github.io#readme",
   "dependencies": {
+    "jsonresume-theme-elegant": "^1.16.1",
     "resume-cli": "^3.0.5"
   }
 }
