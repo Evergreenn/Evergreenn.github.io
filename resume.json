@@ -4,7 +4,7 @@
     },
     "basics": {
         "name": "👨‍💻 Guillaume Girard",
-        "label": "Developer",
+        "label": "Developer - OPS",
         "picture": "https://github.com/Evergreenn.png",
         "email": "guillaumegirardpro@gmail.com",
         "website": "https://evergreenn.github.io/",
@@ -90,7 +90,8 @@
                 "IasS",
                 "Serverless",
                 "IaC",
-                "AWS"
+                "AWS",
+                "Terraform"
             ]
         },
         {
