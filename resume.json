@@ -3,7 +3,7 @@
         "theme": "elegant"
     },
     "basics": {
-        "name": "Guillaume Girard",
+        "name": "👨‍💻 Guillaume Girard",
         "label": "Developer",
         "picture": "https://github.com/Evergreenn.png",
         "email": "guillaumegirardpro@gmail.com",
@@ -20,6 +20,10 @@
             {
                 "network": "Github",
                 "url": "https://github.com/Evergreenn"
+            },
+            {
+                "network": "Twitter",
+                "url": "https://twitter.com/Guillau32344338"
             }
         ]
     },
